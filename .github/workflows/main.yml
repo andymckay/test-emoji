@@ -1,0 +1,12 @@
+name: 🚀
+
+on: [repository_dispatch]
+
+jobs:
+  build:
+    name: 💩
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 🐊
+      run: echo Hello, alligator!
